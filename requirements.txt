@@ -1,0 +1,37 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Numerical Computing
+numpy
+pandas
+
+# Medical Image Processing
+nibabel
+opencv-python
+scikit-image
+
+# Visualization
+matplotlib
+seaborn
+Pillow
+
+# API Backend
+fastapi
+uvicorn
+python-multipart
+
+# Data Validation
+pydantic
+
+# Utilities
+tqdm
+python-dotenv
+
+# PDF Report Generation
+reportlab
+
+# Model Export & Optimization (future use)
+onnx
+onnxruntime
